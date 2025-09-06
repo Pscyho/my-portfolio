@@ -1,8 +1,13 @@
 import { render, screen } from '@testing-library/react';
+import { ChakraProvider } from '@chakra-ui/react';
 import App from './App';
 
-test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+test('renders portfolio', () => {
+  render(
+    <ChakraProvider>
+      <App />
+    </ChakraProvider>
+  );
+  const nameElement = screen.getByText(/Hi, I'm Gadigeppa Tegginamani/i);
+  expect(nameElement).toBeInTheDocument();
 });
