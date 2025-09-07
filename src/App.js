@@ -66,7 +66,7 @@ function App() {
             <div className="project-card floating" style={{ animationDelay: '0.4s' }}>
               <div className="project-header">
                 <h3>HackVyuha2025</h3>
-                <span className="project-tag">Hackathon • Innovation</span>
+                <span className="project-tag">Hackathon •Innovation</span>
               </div>
               <p>
                 Hackathon project developed for HackVyuha2025 competition. Innovative solution showcasing problem-solving
@@ -135,7 +135,7 @@ function App() {
                 <h3>CNP</h3>
                 <span className="project-tag">BEC702</span>
               </div>
-              <p>Computer Network Protocols implemented in C programming</p>
+              <p>Computer Network Protocols lab program C programming</p>
               <div className="project-links">
                 <a href="https://github.com/Pscyho/Computer_Networking" className="project-btn">
                   <span>View Code</span>
@@ -162,6 +162,7 @@ function App() {
             <a href="https://github.com/Pscyho" className="social-btn">
               <i className="fab fa-github"></i> GitHub
             </a>
+            
           </div>
         </div>
       </section>
