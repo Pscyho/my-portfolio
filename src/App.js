@@ -135,7 +135,7 @@ function App() {
                 <h3>CNP</h3>
                 <span className="project-tag">BEC702</span>
               </div>
-              <p>Computer Network Protocols lab program C programming</p>
+              <p>Computer Network Protocols lab program C </p>
               <div className="project-links">
                 <a href="https://github.com/Pscyho/Computer_Networking" className="project-btn">
                   <span>View Code</span>
