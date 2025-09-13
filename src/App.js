@@ -162,6 +162,9 @@ function App() {
             <a href="https://github.com/Pscyho" className="social-btn">
               <i className="fab fa-github"></i> GitHub
             </a>
+            <a href="https://www.reddit.com/u/gadigeppa31/s/BcW3mgAVwb" className="social-btn">
+              <i className="fab fa-reddit"></i> Reddit
+            </a>
             
           </div>
         </div>
