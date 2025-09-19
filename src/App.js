@@ -10,7 +10,7 @@ function App() {
       {/* Hero Section */}
       <section className="hero">
         <div className="container">
-          <h1>Hi, I'm Gadigeppa  </h1>
+          <h1>Hi, I'm Gadigeppa Tegginamani </h1>
           <p className="subtitle">
             Passionate Electronics & Communication Engineer specializing in IoT systems, embedded development, and hackathon innovations.
             I create real-time monitoring solutions, interactive web applications, and compete in coding challenges.
