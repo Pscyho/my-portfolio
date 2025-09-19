@@ -90,7 +90,7 @@ function App() {
                 responsive design for seamless user experience across devices.
               </p>
               <div className="project-links">
-                <a href="https://github.com/Pscyho/deadgame" className="project-btn">
+                <a href="https://github.com/Pscyho" className="project-btn">
                   <span>View Code</span>
                   <i className="arrow">→</i>
                 </a>
