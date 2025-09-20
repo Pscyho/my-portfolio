@@ -82,15 +82,16 @@ function App() {
 
             <div className="project-card floating" style={{ animationDelay: '0.2s' }}>
               <div className="project-header">
-                <h3>🎮 DeadGame</h3>
-                <span className="project-tag">JavaScript • Game</span>
+                <h3>Hardware hacking </h3>
+                <span className="project-tag">HTML&CSS • Web</span>
               </div>
               <p>
-                Interactive web-based game built with JavaScript and HTML. Features engaging gameplay mechanics and
-                responsive design for seamless user experience across devices.
+                Interactive web-based informational page built with HTML and CSS. Features detailed content on hardware
+                hacking tools like Flipper Zero and Wi-Fi Deauther, with clean design for educational purposes and responsive
+                layout for optimal viewing across devices.
               </p>
               <div className="project-links">
-                <a href="https://github.com/Pscyho" className="project-btn">
+                <a href="https://github.com/Pscyho/flipper" className="project-btn">
                   <span>View Code</span>
                   <i className="arrow">→</i>
                 </a>
@@ -165,7 +166,7 @@ function App() {
             <a href="https://www.reddit.com/u/gadigeppa31/s/BcW3mgAVwb" className="social-btn">
               <i className="fab fa-reddit"></i> Reddit
             </a>
-            
+
           </div>
         </div>
       </section>
