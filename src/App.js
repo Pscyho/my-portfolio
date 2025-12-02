@@ -124,7 +124,7 @@ function App() {
               </div>
               <p>Microwave and Antenna lab program in Matlab</p>
               <div className="project-links">
-                <a href="https://github.com/Pscyho/ME-AT" className="project-btn">
+                <a href="www.google.com" className="project-btn">
                   <span>View Code</span>
                   <i className="arrow">→</i>
                 </a>
@@ -138,7 +138,7 @@ function App() {
               </div>
               <p>Computer Network Protocols lab program C </p>
               <div className="project-links">
-                <a href="https://github.com/Pscyho/Computer_Networking" className="project-btn">
+                <a href="www.google.com" className="project-btn">
                   <span>View Code</span>
                   <i className="arrow">→</i>
                 </a>
