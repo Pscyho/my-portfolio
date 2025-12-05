@@ -108,45 +108,7 @@ function App() {
         </div>
       </section>
 
-      {/* Lab Programs Section */}
-      <section className="labs">
-        <div className="container">
-          <div className="section-header">
-            <h2 className="section-title">Lab Programs 💻</h2>
-            <p className="section-subtitle">7th sem lab programs</p>
-          </div>
-
-          <div className="projects-grid">
-            <div className="project-card">
-              <div className="project-header">
-                <h3>ME & AT</h3>
-                <span className="project-tag">BEC701</span>
-              </div>
-              <p>Microwave and Antenna lab program in Matlab</p>
-              <div className="project-links">
-                <a href="www.google.com" className="project-btn">
-                  <span>View Code</span>
-                  <i className="arrow">→</i>
-                </a>
-              </div>
-            </div>
-
-            <div className="project-card">
-              <div className="project-header">
-                <h3>CNP</h3>
-                <span className="project-tag">BEC702</span>
-              </div>
-              <p>Computer Network Protocols lab program C </p>
-              <div className="project-links">
-                <a href="www.google.com" className="project-btn">
-                  <span>View Code</span>
-                  <i className="arrow">→</i>
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+      
 
       {/* Contact Section */}
       {/* Contact Section */}
