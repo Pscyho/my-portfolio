@@ -31,8 +31,6 @@ function App() {
             >
               📄 Download Resume
             </a>
-
-
           </div>
         </div>
       </section>
@@ -79,20 +77,17 @@ function App() {
                 </a>
               </div>
             </div>
+          </div> {/* end projects-grid */}
 
-
-
-        {/* Electronics Icons Background */}
-        <div className="bg-animation">
-          <FaRobot className="electronics-icon icon-robot" />
-          <SiEspressif className="electronics-icon icon-esp" />
-          <GiSolderingIron className="electronics-icon icon-solder" />
-        </div>
+          {/* Electronics Icons Background */}
+          <div className="bg-animation">
+            <FaRobot className="electronics-icon icon-robot" />
+            <SiEspressif className="electronics-icon icon-esp" />
+            <GiSolderingIron className="electronics-icon icon-solder" />
+          </div>
+        </div> {/* end container */}
       </section>
 
-      
-
-      {/* Contact Section */}
       {/* Contact Section */}
       <section className="contact">
         <div className="container">
@@ -110,11 +105,9 @@ function App() {
             <a href="https://www.reddit.com/u/gadigeppa31/s/BcW3mgAVwb" className="social-btn">
               <i className="fab fa-reddit"></i> Reddit
             </a>
-
           </div>
         </div>
       </section>
-
     </div>
   );
 }
