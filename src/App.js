@@ -80,25 +80,7 @@ function App() {
               </div>
             </div>
 
-            <div className="project-card floating" style={{ animationDelay: '0.2s' }}>
-              <div className="project-header">
-                <h3>Hardware hacking </h3>
-                <span className="project-tag">HTML&CSS • Web</span>
-              </div>
-              <p>
-                Interactive web-based informational page built with HTML and CSS. Features detailed content on hardware
-                hacking tools like Flipper Zero and Wi-Fi Deauther, with clean design for educational purposes and responsive
-                layout for optimal viewing across devices.
-              </p>
-              <div className="project-links">
-                <a href="https://github.com/Pscyho/flipper" className="project-btn">
-                  <span>View Code</span>
-                  <i className="arrow">→</i>
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
+
 
         {/* Electronics Icons Background */}
         <div className="bg-animation">
