@@ -25,7 +25,7 @@ function App() {
           {/* Resume Download Button */}
           <div className="buttons">
             <a
-              href="/resume1.pdf"
+              href="/resume.pdf"
               className="btn-primary"
               download
             >
